@@ -1,1 +1,11 @@
-gjfAKJ
+{
+"version":"android-10.0",
+"filename":"EvolutionX_4.1.69_Plate2-10.0-20200404-1142-UNOFFICIAL.zip",
+"datetime":1586000523,
+"size":1327567388,
+"url":"https://sourceforge.net/projects/pl2-sprout/files/EvolutionX/EvolutionX_4.1.69_Plate2-10.0-20200404-1142-UNOFFICIAL.zip/download",
+"filehash":"689f076fa3acfb898f309b395395a42b",
+"id":"b712acf86ff236cc881e05456707080e1bdc0b26c3b7ead0e5312ee05c485f51",
+"whatsNew":"- Based on latest rom sources\n- 2020-03-05 Google Security patch\n- Fixed bluetooth audio\n- Fixed 3rd party apps video calls",
+"notification":"Sofware update - New EvolutionX build is up"
+}
